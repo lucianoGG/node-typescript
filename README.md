@@ -27,5 +27,5 @@ This is a simple project for learning and studying routes creation with node and
    ```
 4. Run browser
    ```sh
-   `http://localhost:3333`
+   http://localhost:3333
    ```
